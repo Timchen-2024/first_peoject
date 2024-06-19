@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-maccatalyst/first_peojectTests.build/Objects-normal/arm64/first_peojectTests-master.d",
+    "diagnostics" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-maccatalyst/first_peojectTests.build/Objects-normal/arm64/first_peojectTests-master.dia",
+    "emit-module-dependencies" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-maccatalyst/first_peojectTests.build/Objects-normal/arm64/first_peojectTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-maccatalyst/first_peojectTests.build/Objects-normal/arm64/first_peojectTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-maccatalyst/first_peojectTests.build/Objects-normal/arm64/first_peojectTests-master.swiftdeps"
+  },
+  "/Users/contestant/Desktop/first_peoject/first_peojectTests/first_peojectTests.swift" : {
+
+  }
+}

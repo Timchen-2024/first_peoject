@@ -1,9 +1,4 @@
-//
-//  first_peojectUITestsLaunchTests.swift
-//  first_peojectUITests
-//
-//  Created by Contestant on 2024/4/27.
-//
+
 
 import XCTest
 

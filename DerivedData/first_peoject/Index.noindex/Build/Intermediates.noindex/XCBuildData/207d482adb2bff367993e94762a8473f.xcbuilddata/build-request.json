@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "9db9a69acf0c11f56f62d8d3a99c1cad3e0bbb52674d13dacb3067447ac44f8a"
+    },
+    {
+      "guid" : "9db9a69acf0c11f56f62d8d3a99c1cad561ef792bde98523d7615b6d86319734"
+    },
+    {
+      "guid" : "9db9a69acf0c11f56f62d8d3a99c1cad03e995fcde5364b7cc946313b6a6abb8"
+    }
+  ],
+  "containerPath" : "/Users/contestant/Desktop/first_peoject/first_peoject.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/contestant/Desktop/first_peoject/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Build/Products",
+      "pchPath" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-iphonesimulator/first_peojectUITests.build/Objects-normal/arm64/first_peojectUITests-master.d",
+    "diagnostics" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-iphonesimulator/first_peojectUITests.build/Objects-normal/arm64/first_peojectUITests-master.dia",
+    "emit-module-dependencies" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-iphonesimulator/first_peojectUITests.build/Objects-normal/arm64/first_peojectUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-iphonesimulator/first_peojectUITests.build/Objects-normal/arm64/first_peojectUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-iphonesimulator/first_peojectUITests.build/Objects-normal/arm64/first_peojectUITests-master.swiftdeps"
+  },
+  "/Users/contestant/Desktop/first_peoject/first_peojectUITests/first_peojectUITests.swift" : {
+
+  },
+  "/Users/contestant/Desktop/first_peoject/first_peojectUITests/first_peojectUITestsLaunchTests.swift" : {
+
+  }
+}

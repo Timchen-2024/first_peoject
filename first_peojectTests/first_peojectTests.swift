@@ -1,9 +1,3 @@
-//
-//  first_peojectTests.swift
-//  first_peojectTests
-//
-//  Created by Contestant on 2024/4/27.
-//
 
 import XCTest
 @testable import first_peoject

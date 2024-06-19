@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'first_peojectUITests' in project 'first_peoject' (no dependencies)
+Target 'first_peojectUITests' in project 'first_peoject'
+➜ Explicit dependency on target 'first_peoject' in project 'first_peoject'
+Target 'first_peojectUITests' in project 'first_peoject'
+➜ Explicit dependency on target 'first_peoject' in project 'first_peoject'
+Target 'first_peojectTests' in project 'first_peoject' (no dependencies)
+Target 'first_peojectTests' in project 'first_peoject'
+➜ Explicit dependency on target 'first_peoject' in project 'first_peoject'
+Target 'first_peojectTests' in project 'first_peoject'
+➜ Explicit dependency on target 'first_peoject' in project 'first_peoject'
+Target 'first_peoject' in project 'first_peoject' (no dependencies)
+Target 'first_peoject' in project 'first_peoject' (no dependencies)

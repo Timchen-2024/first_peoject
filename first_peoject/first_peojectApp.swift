@@ -1,9 +1,3 @@
-//
-//  first_peojectApp.swift
-//  first_peoject
-//
-//  Created by Contestant on 2024/4/27.
-//
 
 import SwiftUI
 

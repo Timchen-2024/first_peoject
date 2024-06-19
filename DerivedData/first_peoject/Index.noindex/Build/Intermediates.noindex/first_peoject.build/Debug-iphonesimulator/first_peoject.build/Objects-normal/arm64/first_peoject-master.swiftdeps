@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "b4a2b12d5469d07601d9b33ccaf7ddb93fc29ba750a347a34a92b2e8f2f4ba29"
+build_start_time: [1718779897, 358236000]
+build_end_time: [1718779900, 41062000]
+inputs:
+  ? "/Users/contestant/Desktop/first_peoject/DerivedData/first_peoject/Index.noindex/Build/Intermediates.noindex/first_peoject.build/Debug-iphonesimulator/first_peoject.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1718779897, 337829752]
+  "/Users/contestant/Desktop/first_peoject/first_peoject/ContentView.swift": [1718763005, 856373901]
+  "/Users/contestant/Desktop/first_peoject/first_peoject/dejson.swift": [1718724000, 760943831]
+  "/Users/contestant/Desktop/first_peoject/first_peoject/depdf.swift": [1718724000, 782235477]
+  "/Users/contestant/Desktop/first_peoject/first_peoject/fir_page.swift": [1718762437, 278859589]
+  "/Users/contestant/Desktop/first_peoject/first_peoject/first_peojectApp.swift": [1718724000, 764848425]
+  "/Users/contestant/Desktop/first_peoject/first_peoject/sec_page.swift": [1718762560, 850911671]
+  "/Users/contestant/Desktop/first_peoject/first_peoject/thi_page.swift": [1718779336, 767387834]
